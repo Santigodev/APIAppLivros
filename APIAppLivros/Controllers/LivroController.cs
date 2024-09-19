@@ -26,9 +26,9 @@ namespace APIAppLivros.Controllers
 
         // GET api/<LivroController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task<Livro> Get(int id)
         {
-            return "value";
+            return await _livroRepository.BuscarPorIdDB(id);
         }
 
         // POST api/<LivroController>
@@ -45,8 +45,11 @@ namespace APIAppLivros.Controllers
 
         // DELETE api/<LivroController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
+            await _livroRepository.DeletarPorid (id);
+
+            return  Ok();
         }
     }
 }

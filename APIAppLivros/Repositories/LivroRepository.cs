@@ -26,5 +26,25 @@ namespace APIAppLivros.Repositories
                 return await conn.QueryAsync<Livro>(sql);
             }
         }
+
+        public async Task<Livro> BuscarPorIdDB(int id)
+        {
+            using (var conn = Connection)
+            {
+                var sql = "SELECT * FROM tb_livros where Id = @id";
+
+                return await conn.QueryFirstOrDefaultAsync<Livro>(sql, new { Id = id});
+            }
+        }
+
+        public async Task<int> DeletarPorid(int id)
+        {
+            using (var conn = Connection)
+            {
+                var sql = "DELETE FROM tb_livros where Id = @id";
+
+                return await conn.ExecuteAsync(sql, new { Id = id });
+            }
+        }
     }
  }
