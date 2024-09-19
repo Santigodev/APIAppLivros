@@ -11,12 +11,7 @@ C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\K4os.Compression.LZ4.dll
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\K4os.Hash.xxHash.dll
-C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\MySql.Data.dll
-C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
-C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\System.IO.Pipelines.dll
@@ -40,7 +35,6 @@ C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\obj\Debug\net6.0\APIAppLivros.AssemblyInfoInputs.cache
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\obj\Debug\net6.0\APIAppLivros.AssemblyInfo.cs
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\obj\Debug\net6.0\APIAppLivros.csproj.CoreCompileInputs.cache
-C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\obj\Debug\net6.0\APIAppLivros.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\obj\Debug\net6.0\APIAppLivros.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\obj\Debug\net6.0\staticwebassets\msbuild.APIAppLivros.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\obj\Debug\net6.0\staticwebassets\msbuild.build.APIAppLivros.props
@@ -56,3 +50,9 @@ C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\obj\Debug\net6.0\APIAppLivros.pdb
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\obj\Debug\net6.0\APIAppLivros.genruntimeconfig.cache
 C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\obj\Debug\net6.0\ref\APIAppLivros.dll
+C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alunos\Documents\ProjetosShilton\Correção\Versionamento\APIAppLivros\APIAppLivros\obj\Debug\net6.0\APIAppLivros.MvcApplicationPartsAssemblyInfo.cs
