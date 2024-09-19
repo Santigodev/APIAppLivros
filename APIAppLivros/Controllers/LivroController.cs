@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using APIAppLivros.Models;
+using APIAppLivros.Repositories;
+using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -8,11 +10,18 @@ namespace APIAppLivros.Controllers
     [ApiController]
     public class LivroController : ControllerBase
     {
+        private readonly LivroRepository _livroRepository;
+
+        public LivroController(LivroRepository livroRepository)
+        {
+            _livroRepository = livroRepository;
+        }
+
         // GET: api/<LivroController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<IEnumerable<Livro>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return await _livroRepository.ListarTodosDB();
         }
 
         // GET api/<LivroController>/5
